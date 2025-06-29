@@ -33,7 +33,7 @@ To analyze and visualize the Netflix Titles dataset from Kaggle to answer key bu
 - 🎥 Netflix’s library is **~70% Movies**
 - **USA** leads in content count, followed by **India & UK**  
 - 🧑‍🎤 **David Attenborough** is the most featured actor
-- 🧑**Rajiv Chakra** is the most frequent director 
+- 🧑**Rajiv Chilaka** is the most frequent director 
 - 🎭 **Drama** is the most dominant genre  
 - ⏱ Longest movie: **Black Mirror: Bandersnatch (317 mins)**  
 - 📺 Longest TV Show: **Grey’s Anatomy (17 seasons)**  
