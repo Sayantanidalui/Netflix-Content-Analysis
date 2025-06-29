@@ -39,6 +39,12 @@ To analyze and visualize the Netflix Titles dataset from Kaggle to answer key bu
 - 📆 Most content added in 2019
 - And many more....
 
+## 📖 Storytelling
+
+This project dives into Netflix’s vast library to uncover patterns in its global content. From identifying that around **70% of the content is movies** to finding that the **USA leads in total titles**, the data reveals how Netflix structures its offerings.
+
+We discovered **David Attenborough** as the most featured actor, **Drama** as the dominant genre, and **2019** as the year with the highest content addition. Insights like these show how data can tell the story behind what we watch every day.
+
 ## 📎 Project Files
 - *Dataset* - Kaggle's netflix_titles dataset is used
 - *SQL Queries* – Used to extract and manipulate data  
